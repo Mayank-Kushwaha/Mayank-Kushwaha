@@ -10,9 +10,7 @@
 <p align="left"> <a href="https://twitter.com/mayankk09377521" target="blank"><img src="https://img.shields.io/twitter/follow/mayankk09377521?logo=twitter&style=for-the-badge" alt="mayankk09377521" /></a> </p>
 
 - 🌱 I’m currently learning: **MERN stack, Advanced Javascript, Next.js.**
-
-- 👨‍💻 My portfolio Website: [https://mayank-kushwaha.github.io/Portfolio_mayank/]([https://mayank-kushwaha.github.io/Portfolio_mayank/](https://mayank-kushwaha-aiportfolio.vercel.app/))
-
+- 👨‍💻 My portfolio Website: [https://mayank-kushwaha-aiportfolio.vercel.app/](https://mayank-kushwaha-aiportfolio.vercel.app/)
 - 📫 How to reach me: **mayankkush0842@gmail.com**
 
 
