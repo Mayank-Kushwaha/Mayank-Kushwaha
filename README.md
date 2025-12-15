@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning: **MERN stack, Advanced Javascript, Next.js.**
 
-- 👨‍💻 My portfolio Website: [https://mayank-kushwaha.github.io/Portfolio_mayank/](https://mayank-kushwaha.github.io/Portfolio_mayank/)
+- 👨‍💻 My portfolio Website: [https://mayank-kushwaha.github.io/Portfolio_mayank/]([https://mayank-kushwaha.github.io/Portfolio_mayank/](https://mayank-kushwaha-aiportfolio.vercel.app/))
 
 - 📫 How to reach me: **mayankkush0842@gmail.com**
 
