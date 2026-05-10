@@ -54,17 +54,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mayank-Kushwaha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mayank-Kushwaha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Kushwaha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Kushwaha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
-  </picture>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=Mayank-Kushwaha&theme=tokyonight&hide_border=true&hide=current_streak&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
